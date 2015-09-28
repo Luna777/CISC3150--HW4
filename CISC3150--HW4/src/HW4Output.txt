@@ -1,0 +1,32 @@
+the char array that will put into MyString is: 
+HelloKitty
+
+get char at position 5: 
+K
+
+get MyString's length: 
+10
+
+get the substring from position 5 to 9: 
+Kitty
+
+to lowercase: 
+hellokitty
+
+to uppercase: 
+HELLOKITTY
+
+is it equal to KittyKitty? 
+false
+
+is it equal to HelloKitty? 
+true
+
+getMyString(): 
+HelloKitty
+
+print out MyString: 
+HelloKitty
+
+valueOf(1235555): 
+1235555
